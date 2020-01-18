@@ -4,14 +4,13 @@ Function1()
    { 
          //Initial Code
    }
-
+<<<<<<< HEAD
 Function2()
-{
-	//Initial Code
-}
-
+=======
 Function3()
+>>>>>>> dev_test
    {
-         ////Initial Code  }
+         //Initial Code
+   }
 }
 

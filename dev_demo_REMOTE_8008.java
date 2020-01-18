@@ -4,14 +4,9 @@ Function1()
    { 
          //Initial Code
    }
-
-Function2()
-{
-	//Initial Code
-}
-
 Function3()
    {
-         ////Initial Code  }
+         //Initial Code
+   }
 }
 
